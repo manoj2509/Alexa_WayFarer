@@ -5,7 +5,7 @@ your personality and showing relevant list only. It uses your twitter account an
 API.
 
 ## Contribution by:
-Manoj Parihar
-Udit Desai
-Rohit Jacob
-Mahendra Mhatre
+- Manoj Parihar
+- Udit Desai
+- Rohit Jacob
+- Mahendra Mhatre
