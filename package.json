@@ -1,0 +1,12 @@
+/**
+ * Created by Mj on 10/16/2016.
+ */
+
+{
+  "name": "wayFarer-alexa",
+  "version": "1.0.0",
+  "description": "WayFarer Alexa Lambda Function",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {}
+}

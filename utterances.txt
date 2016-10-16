@@ -1,0 +1,5 @@
+iGetPlacesToVisit I am heading to {place} this {day}
+iGetPlacesToVisit Tell me places to visit in {place}
+iCelebrityMode If I were {celebrity} what would I do in {place}
+iCelebrityMode What would {celebrity} do in {place}
+iCoolMode hack rice wants to know cool places to go in {place}

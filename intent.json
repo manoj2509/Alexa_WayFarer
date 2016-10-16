@@ -1,0 +1,45 @@
+{
+  "intents": [
+    {
+      "intent": "iGetPlacesToVisit",
+      "slots": [
+        {
+          "name": "day",
+          "type": "DAYS_OF_WEEK"
+        },
+        {
+          "name": "place",
+          "type": "AMAZON.US_CITY"
+        }
+      ]
+    },
+    {
+      "intent": "iCelebrityMode",
+      "slots": [
+        {
+          "name": "place",
+          "type": "AMAZON.US_CITY"
+        },
+        {
+          "name": "celebrity",
+          "type": "LIST_OF_CELEBRITY"
+        }
+      ]
+    },
+    {
+      "intent": "iCoolMode",
+      "slots": [
+        {
+          "name": "place",
+          "type": "AMAZON.US_CITY"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+AMAZON.US_CITY	Santa Clara | Delhi
+
+DAYS_OF_WEEK	Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday
+
+LIST_OF_CELEBRITY	Johnny Depp | Barack Obama | Christiano Ronaldo | Lionel Messi | Taylor Swift | real madrid | Kanye West
